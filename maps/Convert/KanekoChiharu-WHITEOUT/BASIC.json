@@ -1,0 +1,2295 @@
+{
+  "AudioHash": "da816b6dcc2040669a610cd1adffbc3a",
+  "AudioId": "rbxassetid://9462234684",
+  "BackgroundId": "rbxassetid://3142435998",
+  "BaseRate": 1,
+  "HitObjects": [
+    {
+      "EndTime": 950,
+      "Lane": 2,
+      "StartTime": 950,
+      "Type": 1
+    },
+    {
+      "EndTime": 950,
+      "Lane": 1,
+      "StartTime": 950,
+      "Type": 1
+    },
+    {
+      "EndTime": 1253,
+      "Lane": 4,
+      "StartTime": 1253,
+      "Type": 1
+    },
+    {
+      "EndTime": 1556,
+      "Lane": 3,
+      "StartTime": 1556,
+      "Type": 1
+    },
+    {
+      "EndTime": 1859,
+      "Lane": 2,
+      "StartTime": 1859,
+      "Type": 1
+    },
+    {
+      "EndTime": 2162,
+      "Lane": 1,
+      "StartTime": 2162,
+      "Type": 1
+    },
+    {
+      "EndTime": 2465,
+      "Lane": 2,
+      "StartTime": 2465,
+      "Type": 1
+    },
+    {
+      "EndTime": 2768,
+      "Lane": 3,
+      "StartTime": 2768,
+      "Type": 1
+    },
+    {
+      "EndTime": 3071,
+      "Lane": 4,
+      "StartTime": 3071,
+      "Type": 1
+    },
+    {
+      "EndTime": 3374,
+      "Lane": 1,
+      "StartTime": 3374,
+      "Type": 1
+    },
+    {
+      "EndTime": 3677,
+      "Lane": 3,
+      "StartTime": 3677,
+      "Type": 1
+    },
+    {
+      "EndTime": 3980,
+      "Lane": 2,
+      "StartTime": 3980,
+      "Type": 1
+    },
+    {
+      "EndTime": 4283,
+      "Lane": 4,
+      "StartTime": 4283,
+      "Type": 1
+    },
+    {
+      "EndTime": 4586,
+      "Lane": 3,
+      "StartTime": 4586,
+      "Type": 1
+    },
+    {
+      "EndTime": 4889,
+      "Lane": 1,
+      "StartTime": 4889,
+      "Type": 1
+    },
+    {
+      "EndTime": 5192,
+      "Lane": 4,
+      "StartTime": 5192,
+      "Type": 1
+    },
+    {
+      "EndTime": 5495,
+      "Lane": 2,
+      "StartTime": 5495,
+      "Type": 1
+    },
+    {
+      "EndTime": 5798,
+      "Lane": 4,
+      "StartTime": 5798,
+      "Type": 1
+    },
+    {
+      "EndTime": 5798,
+      "Lane": 1,
+      "StartTime": 5798,
+      "Type": 1
+    },
+    {
+      "EndTime": 6101,
+      "Lane": 3,
+      "StartTime": 6101,
+      "Type": 1
+    },
+    {
+      "EndTime": 6404,
+      "Lane": 2,
+      "StartTime": 6404,
+      "Type": 1
+    },
+    {
+      "EndTime": 6707,
+      "Lane": 1,
+      "StartTime": 6707,
+      "Type": 1
+    },
+    {
+      "EndTime": 7010,
+      "Lane": 2,
+      "StartTime": 7010,
+      "Type": 1
+    },
+    {
+      "EndTime": 7313,
+      "Lane": 3,
+      "StartTime": 7313,
+      "Type": 1
+    },
+    {
+      "EndTime": 7616,
+      "Lane": 4,
+      "StartTime": 7616,
+      "Type": 1
+    },
+    {
+      "EndTime": 7919,
+      "Lane": 3,
+      "StartTime": 7919,
+      "Type": 1
+    },
+    {
+      "EndTime": 8222,
+      "Lane": 2,
+      "StartTime": 8222,
+      "Type": 1
+    },
+    {
+      "EndTime": 8525,
+      "Lane": 4,
+      "StartTime": 8525,
+      "Type": 1
+    },
+    {
+      "EndTime": 8828,
+      "Lane": 1,
+      "StartTime": 8828,
+      "Type": 1
+    },
+    {
+      "EndTime": 9131,
+      "Lane": 3,
+      "StartTime": 9131,
+      "Type": 1
+    },
+    {
+      "EndTime": 10040,
+      "Lane": 4,
+      "StartTime": 9434,
+      "Type": 2
+    },
+    {
+      "EndTime": 9434,
+      "Lane": 2,
+      "StartTime": 9434,
+      "Type": 1
+    },
+    {
+      "EndTime": 10646,
+      "Lane": 1,
+      "StartTime": 10040,
+      "Type": 2
+    },
+    {
+      "EndTime": 10646,
+      "Lane": 4,
+      "StartTime": 10646,
+      "Type": 1
+    },
+    {
+      "EndTime": 10646,
+      "Lane": 3,
+      "StartTime": 10646,
+      "Type": 1
+    },
+    {
+      "EndTime": 11859,
+      "Lane": 2,
+      "StartTime": 11253,
+      "Type": 2
+    },
+    {
+      "EndTime": 12465,
+      "Lane": 3,
+      "StartTime": 12465,
+      "Type": 1
+    },
+    {
+      "EndTime": 13677,
+      "Lane": 1,
+      "StartTime": 13071,
+      "Type": 2
+    },
+    {
+      "EndTime": 13677,
+      "Lane": 4,
+      "StartTime": 13677,
+      "Type": 1
+    },
+    {
+      "EndTime": 14889,
+      "Lane": 3,
+      "StartTime": 14283,
+      "Type": 2
+    },
+    {
+      "EndTime": 16101,
+      "Lane": 1,
+      "StartTime": 15495,
+      "Type": 2
+    },
+    {
+      "EndTime": 16101,
+      "Lane": 3,
+      "StartTime": 16101,
+      "Type": 1
+    },
+    {
+      "EndTime": 17313,
+      "Lane": 4,
+      "StartTime": 16707,
+      "Type": 2
+    },
+    {
+      "EndTime": 17313,
+      "Lane": 2,
+      "StartTime": 17313,
+      "Type": 1
+    },
+    {
+      "EndTime": 19056,
+      "Lane": 1,
+      "StartTime": 17919,
+      "Type": 2
+    },
+    {
+      "EndTime": 20343,
+      "Lane": 4,
+      "StartTime": 20343,
+      "Type": 1
+    },
+    {
+      "EndTime": 20343,
+      "Lane": 3,
+      "StartTime": 20343,
+      "Type": 1
+    },
+    {
+      "EndTime": 20646,
+      "Lane": 2,
+      "StartTime": 20646,
+      "Type": 1
+    },
+    {
+      "EndTime": 20949,
+      "Lane": 1,
+      "StartTime": 20949,
+      "Type": 1
+    },
+    {
+      "EndTime": 21253,
+      "Lane": 4,
+      "StartTime": 21253,
+      "Type": 1
+    },
+    {
+      "EndTime": 21556,
+      "Lane": 2,
+      "StartTime": 21556,
+      "Type": 1
+    },
+    {
+      "EndTime": 21556,
+      "Lane": 3,
+      "StartTime": 21556,
+      "Type": 1
+    },
+    {
+      "EndTime": 21859,
+      "Lane": 1,
+      "StartTime": 21859,
+      "Type": 1
+    },
+    {
+      "EndTime": 22162,
+      "Lane": 4,
+      "StartTime": 22162,
+      "Type": 1
+    },
+    {
+      "EndTime": 22465,
+      "Lane": 3,
+      "StartTime": 22465,
+      "Type": 1
+    },
+    {
+      "EndTime": 22768,
+      "Lane": 2,
+      "StartTime": 22768,
+      "Type": 1
+    },
+    {
+      "EndTime": 22768,
+      "Lane": 1,
+      "StartTime": 22768,
+      "Type": 1
+    },
+    {
+      "EndTime": 23071,
+      "Lane": 4,
+      "StartTime": 23071,
+      "Type": 1
+    },
+    {
+      "EndTime": 23374,
+      "Lane": 3,
+      "StartTime": 23374,
+      "Type": 1
+    },
+    {
+      "EndTime": 23677,
+      "Lane": 1,
+      "StartTime": 23677,
+      "Type": 1
+    },
+    {
+      "EndTime": 23980,
+      "Lane": 2,
+      "StartTime": 23980,
+      "Type": 1
+    },
+    {
+      "EndTime": 23980,
+      "Lane": 4,
+      "StartTime": 23980,
+      "Type": 1
+    },
+    {
+      "EndTime": 24283,
+      "Lane": 3,
+      "StartTime": 24283,
+      "Type": 1
+    },
+    {
+      "EndTime": 25192,
+      "Lane": 1,
+      "StartTime": 24586,
+      "Type": 2
+    },
+    {
+      "EndTime": 25192,
+      "Lane": 4,
+      "StartTime": 25192,
+      "Type": 1
+    },
+    {
+      "EndTime": 25495,
+      "Lane": 3,
+      "StartTime": 25495,
+      "Type": 1
+    },
+    {
+      "EndTime": 25798,
+      "Lane": 1,
+      "StartTime": 25798,
+      "Type": 1
+    },
+    {
+      "EndTime": 26101,
+      "Lane": 2,
+      "StartTime": 26101,
+      "Type": 1
+    },
+    {
+      "EndTime": 26404,
+      "Lane": 4,
+      "StartTime": 26404,
+      "Type": 1
+    },
+    {
+      "EndTime": 26707,
+      "Lane": 3,
+      "StartTime": 26707,
+      "Type": 1
+    },
+    {
+      "EndTime": 27010,
+      "Lane": 2,
+      "StartTime": 27010,
+      "Type": 1
+    },
+    {
+      "EndTime": 27313,
+      "Lane": 1,
+      "StartTime": 27313,
+      "Type": 1
+    },
+    {
+      "EndTime": 27616,
+      "Lane": 3,
+      "StartTime": 27616,
+      "Type": 1
+    },
+    {
+      "EndTime": 27616,
+      "Lane": 4,
+      "StartTime": 27616,
+      "Type": 1
+    },
+    {
+      "EndTime": 27919,
+      "Lane": 2,
+      "StartTime": 27919,
+      "Type": 1
+    },
+    {
+      "EndTime": 28222,
+      "Lane": 1,
+      "StartTime": 28222,
+      "Type": 1
+    },
+    {
+      "EndTime": 28525,
+      "Lane": 3,
+      "StartTime": 28525,
+      "Type": 1
+    },
+    {
+      "EndTime": 28828,
+      "Lane": 4,
+      "StartTime": 28828,
+      "Type": 1
+    },
+    {
+      "EndTime": 28828,
+      "Lane": 1,
+      "StartTime": 28828,
+      "Type": 1
+    },
+    {
+      "EndTime": 29131,
+      "Lane": 2,
+      "StartTime": 29131,
+      "Type": 1
+    },
+    {
+      "EndTime": 30040,
+      "Lane": 3,
+      "StartTime": 29434,
+      "Type": 2
+    },
+    {
+      "EndTime": 30040,
+      "Lane": 2,
+      "StartTime": 30040,
+      "Type": 1
+    },
+    {
+      "EndTime": 30646,
+      "Lane": 4,
+      "StartTime": 30040,
+      "Type": 2
+    },
+    {
+      "EndTime": 30646,
+      "Lane": 1,
+      "StartTime": 30646,
+      "Type": 1
+    },
+    {
+      "EndTime": 31859,
+      "Lane": 2,
+      "StartTime": 31253,
+      "Type": 2
+    },
+    {
+      "EndTime": 31859,
+      "Lane": 3,
+      "StartTime": 31859,
+      "Type": 1
+    },
+    {
+      "EndTime": 33071,
+      "Lane": 4,
+      "StartTime": 32465,
+      "Type": 2
+    },
+    {
+      "EndTime": 33071,
+      "Lane": 2,
+      "StartTime": 33071,
+      "Type": 1
+    },
+    {
+      "EndTime": 34283,
+      "Lane": 1,
+      "StartTime": 33677,
+      "Type": 2
+    },
+    {
+      "EndTime": 34283,
+      "Lane": 3,
+      "StartTime": 34283,
+      "Type": 1
+    },
+    {
+      "EndTime": 34889,
+      "Lane": 2,
+      "StartTime": 34889,
+      "Type": 1
+    },
+    {
+      "EndTime": 34889,
+      "Lane": 4,
+      "StartTime": 34889,
+      "Type": 1
+    },
+    {
+      "EndTime": 35192,
+      "Lane": 3,
+      "StartTime": 35192,
+      "Type": 1
+    },
+    {
+      "EndTime": 35495,
+      "Lane": 1,
+      "StartTime": 35495,
+      "Type": 1
+    },
+    {
+      "EndTime": 35798,
+      "Lane": 2,
+      "StartTime": 35798,
+      "Type": 1
+    },
+    {
+      "EndTime": 36101,
+      "Lane": 3,
+      "StartTime": 36101,
+      "Type": 1
+    },
+    {
+      "EndTime": 36404,
+      "Lane": 4,
+      "StartTime": 36404,
+      "Type": 1
+    },
+    {
+      "EndTime": 36707,
+      "Lane": 3,
+      "StartTime": 36707,
+      "Type": 1
+    },
+    {
+      "EndTime": 37010,
+      "Lane": 2,
+      "StartTime": 37010,
+      "Type": 1
+    },
+    {
+      "EndTime": 38525,
+      "Lane": 1,
+      "StartTime": 37313,
+      "Type": 2
+    },
+    {
+      "EndTime": 37919,
+      "Lane": 3,
+      "StartTime": 37919,
+      "Type": 1
+    },
+    {
+      "EndTime": 39737,
+      "Lane": 4,
+      "StartTime": 38525,
+      "Type": 2
+    },
+    {
+      "EndTime": 39131,
+      "Lane": 2,
+      "StartTime": 39131,
+      "Type": 1
+    },
+    {
+      "EndTime": 39737,
+      "Lane": 3,
+      "StartTime": 39737,
+      "Type": 1
+    },
+    {
+      "EndTime": 39737,
+      "Lane": 1,
+      "StartTime": 39737,
+      "Type": 1
+    },
+    {
+      "EndTime": 40040,
+      "Lane": 2,
+      "StartTime": 40040,
+      "Type": 1
+    },
+    {
+      "EndTime": 40343,
+      "Lane": 3,
+      "StartTime": 40343,
+      "Type": 1
+    },
+    {
+      "EndTime": 40646,
+      "Lane": 2,
+      "StartTime": 40646,
+      "Type": 1
+    },
+    {
+      "EndTime": 40950,
+      "Lane": 4,
+      "StartTime": 40950,
+      "Type": 1
+    },
+    {
+      "EndTime": 41253,
+      "Lane": 1,
+      "StartTime": 41253,
+      "Type": 1
+    },
+    {
+      "EndTime": 41556,
+      "Lane": 4,
+      "StartTime": 41556,
+      "Type": 1
+    },
+    {
+      "EndTime": 41859,
+      "Lane": 1,
+      "StartTime": 41859,
+      "Type": 1
+    },
+    {
+      "EndTime": 42162,
+      "Lane": 3,
+      "StartTime": 42162,
+      "Type": 1
+    },
+    {
+      "EndTime": 42465,
+      "Lane": 2,
+      "StartTime": 42465,
+      "Type": 1
+    },
+    {
+      "EndTime": 42768,
+      "Lane": 4,
+      "StartTime": 42768,
+      "Type": 1
+    },
+    {
+      "EndTime": 43071,
+      "Lane": 1,
+      "StartTime": 43071,
+      "Type": 1
+    },
+    {
+      "EndTime": 43374,
+      "Lane": 3,
+      "StartTime": 43374,
+      "Type": 1
+    },
+    {
+      "EndTime": 43677,
+      "Lane": 4,
+      "StartTime": 43677,
+      "Type": 1
+    },
+    {
+      "EndTime": 43980,
+      "Lane": 1,
+      "StartTime": 43980,
+      "Type": 1
+    },
+    {
+      "EndTime": 44283,
+      "Lane": 2,
+      "StartTime": 44283,
+      "Type": 1
+    },
+    {
+      "EndTime": 45798,
+      "Lane": 4,
+      "StartTime": 44586,
+      "Type": 2
+    },
+    {
+      "EndTime": 47010,
+      "Lane": 2,
+      "StartTime": 45798,
+      "Type": 2
+    },
+    {
+      "EndTime": 48222,
+      "Lane": 1,
+      "StartTime": 47010,
+      "Type": 2
+    },
+    {
+      "EndTime": 49434,
+      "Lane": 3,
+      "StartTime": 48222,
+      "Type": 2
+    },
+    {
+      "EndTime": 49889,
+      "Lane": 1,
+      "StartTime": 49434,
+      "Type": 2
+    },
+    {
+      "EndTime": 49889,
+      "Lane": 4,
+      "StartTime": 49889,
+      "Type": 1
+    },
+    {
+      "EndTime": 50798,
+      "Lane": 3,
+      "StartTime": 50343,
+      "Type": 2
+    },
+    {
+      "EndTime": 50798,
+      "Lane": 2,
+      "StartTime": 50798,
+      "Type": 1
+    },
+    {
+      "EndTime": 51707,
+      "Lane": 4,
+      "StartTime": 51253,
+      "Type": 2
+    },
+    {
+      "EndTime": 51707,
+      "Lane": 1,
+      "StartTime": 51707,
+      "Type": 1
+    },
+    {
+      "EndTime": 52465,
+      "Lane": 2,
+      "StartTime": 52010,
+      "Type": 2
+    },
+    {
+      "EndTime": 52465,
+      "Lane": 3,
+      "StartTime": 52465,
+      "Type": 1
+    },
+    {
+      "EndTime": 52768,
+      "Lane": 1,
+      "StartTime": 52768,
+      "Type": 1
+    },
+    {
+      "EndTime": 53071,
+      "Lane": 4,
+      "StartTime": 53071,
+      "Type": 1
+    },
+    {
+      "EndTime": 53374,
+      "Lane": 3,
+      "StartTime": 53374,
+      "Type": 1
+    },
+    {
+      "EndTime": 54283,
+      "Lane": 1,
+      "StartTime": 53677,
+      "Type": 2
+    },
+    {
+      "EndTime": 54889,
+      "Lane": 4,
+      "StartTime": 54283,
+      "Type": 2
+    },
+    {
+      "EndTime": 54283,
+      "Lane": 3,
+      "StartTime": 54283,
+      "Type": 1
+    },
+    {
+      "EndTime": 54889,
+      "Lane": 1,
+      "StartTime": 54889,
+      "Type": 1
+    },
+    {
+      "EndTime": 55192,
+      "Lane": 3,
+      "StartTime": 55192,
+      "Type": 1
+    },
+    {
+      "EndTime": 56101,
+      "Lane": 1,
+      "StartTime": 55495,
+      "Type": 2
+    },
+    {
+      "EndTime": 55495,
+      "Lane": 2,
+      "StartTime": 55495,
+      "Type": 1
+    },
+    {
+      "EndTime": 56101,
+      "Lane": 4,
+      "StartTime": 56101,
+      "Type": 1
+    },
+    {
+      "EndTime": 56404,
+      "Lane": 2,
+      "StartTime": 56404,
+      "Type": 1
+    },
+    {
+      "EndTime": 56707,
+      "Lane": 1,
+      "StartTime": 56707,
+      "Type": 1
+    },
+    {
+      "EndTime": 57313,
+      "Lane": 4,
+      "StartTime": 56707,
+      "Type": 2
+    },
+    {
+      "EndTime": 57313,
+      "Lane": 3,
+      "StartTime": 57313,
+      "Type": 1
+    },
+    {
+      "EndTime": 57616,
+      "Lane": 2,
+      "StartTime": 57616,
+      "Type": 1
+    },
+    {
+      "EndTime": 57919,
+      "Lane": 3,
+      "StartTime": 57919,
+      "Type": 1
+    },
+    {
+      "EndTime": 58525,
+      "Lane": 1,
+      "StartTime": 57919,
+      "Type": 2
+    },
+    {
+      "EndTime": 58525,
+      "Lane": 4,
+      "StartTime": 58525,
+      "Type": 1
+    },
+    {
+      "EndTime": 58828,
+      "Lane": 2,
+      "StartTime": 58828,
+      "Type": 1
+    },
+    {
+      "EndTime": 59131,
+      "Lane": 1,
+      "StartTime": 59131,
+      "Type": 1
+    },
+    {
+      "EndTime": 59586,
+      "Lane": 4,
+      "StartTime": 59131,
+      "Type": 2
+    },
+    {
+      "EndTime": 59586,
+      "Lane": 2,
+      "StartTime": 59586,
+      "Type": 1
+    },
+    {
+      "EndTime": 60040,
+      "Lane": 4,
+      "StartTime": 60040,
+      "Type": 1
+    },
+    {
+      "EndTime": 60495,
+      "Lane": 1,
+      "StartTime": 60040,
+      "Type": 2
+    },
+    {
+      "EndTime": 60495,
+      "Lane": 3,
+      "StartTime": 60495,
+      "Type": 1
+    },
+    {
+      "EndTime": 60950,
+      "Lane": 2,
+      "StartTime": 60950,
+      "Type": 1
+    },
+    {
+      "EndTime": 61404,
+      "Lane": 4,
+      "StartTime": 60950,
+      "Type": 2
+    },
+    {
+      "EndTime": 61404,
+      "Lane": 1,
+      "StartTime": 61404,
+      "Type": 1
+    },
+    {
+      "EndTime": 61707,
+      "Lane": 2,
+      "StartTime": 61707,
+      "Type": 1
+    },
+    {
+      "EndTime": 62162,
+      "Lane": 3,
+      "StartTime": 61859,
+      "Type": 2
+    },
+    {
+      "EndTime": 62162,
+      "Lane": 4,
+      "StartTime": 62162,
+      "Type": 1
+    },
+    {
+      "EndTime": 62465,
+      "Lane": 2,
+      "StartTime": 62465,
+      "Type": 1
+    },
+    {
+      "EndTime": 62768,
+      "Lane": 1,
+      "StartTime": 62768,
+      "Type": 1
+    },
+    {
+      "EndTime": 62995,
+      "Lane": 2,
+      "StartTime": 62995,
+      "Type": 1
+    },
+    {
+      "EndTime": 63222,
+      "Lane": 3,
+      "StartTime": 63222,
+      "Type": 1
+    },
+    {
+      "EndTime": 63980,
+      "Lane": 4,
+      "StartTime": 63374,
+      "Type": 2
+    },
+    {
+      "EndTime": 63980,
+      "Lane": 2,
+      "StartTime": 63980,
+      "Type": 1
+    },
+    {
+      "EndTime": 64283,
+      "Lane": 1,
+      "StartTime": 64283,
+      "Type": 1
+    },
+    {
+      "EndTime": 64586,
+      "Lane": 2,
+      "StartTime": 64586,
+      "Type": 1
+    },
+    {
+      "EndTime": 64889,
+      "Lane": 3,
+      "StartTime": 64889,
+      "Type": 1
+    },
+    {
+      "EndTime": 65192,
+      "Lane": 4,
+      "StartTime": 65192,
+      "Type": 1
+    },
+    {
+      "EndTime": 65495,
+      "Lane": 3,
+      "StartTime": 65495,
+      "Type": 1
+    },
+    {
+      "EndTime": 65798,
+      "Lane": 2,
+      "StartTime": 65798,
+      "Type": 1
+    },
+    {
+      "EndTime": 66101,
+      "Lane": 1,
+      "StartTime": 66101,
+      "Type": 1
+    },
+    {
+      "EndTime": 66404,
+      "Lane": 3,
+      "StartTime": 66404,
+      "Type": 1
+    },
+    {
+      "EndTime": 66707,
+      "Lane": 2,
+      "StartTime": 66707,
+      "Type": 1
+    },
+    {
+      "EndTime": 67010,
+      "Lane": 4,
+      "StartTime": 67010,
+      "Type": 1
+    },
+    {
+      "EndTime": 67313,
+      "Lane": 1,
+      "StartTime": 67313,
+      "Type": 1
+    },
+    {
+      "EndTime": 67616,
+      "Lane": 3,
+      "StartTime": 67616,
+      "Type": 1
+    },
+    {
+      "EndTime": 67919,
+      "Lane": 4,
+      "StartTime": 67919,
+      "Type": 1
+    },
+    {
+      "EndTime": 68222,
+      "Lane": 2,
+      "StartTime": 68222,
+      "Type": 1
+    },
+    {
+      "EndTime": 68525,
+      "Lane": 1,
+      "StartTime": 68525,
+      "Type": 1
+    },
+    {
+      "EndTime": 68828,
+      "Lane": 4,
+      "StartTime": 68828,
+      "Type": 1
+    },
+    {
+      "EndTime": 68828,
+      "Lane": 3,
+      "StartTime": 68828,
+      "Type": 1
+    },
+    {
+      "EndTime": 69131,
+      "Lane": 1,
+      "StartTime": 69131,
+      "Type": 1
+    },
+    {
+      "EndTime": 69434,
+      "Lane": 2,
+      "StartTime": 69434,
+      "Type": 1
+    },
+    {
+      "EndTime": 69737,
+      "Lane": 3,
+      "StartTime": 69737,
+      "Type": 1
+    },
+    {
+      "EndTime": 70040,
+      "Lane": 4,
+      "StartTime": 70040,
+      "Type": 1
+    },
+    {
+      "EndTime": 70343,
+      "Lane": 2,
+      "StartTime": 70343,
+      "Type": 1
+    },
+    {
+      "EndTime": 70646,
+      "Lane": 3,
+      "StartTime": 70646,
+      "Type": 1
+    },
+    {
+      "EndTime": 70949,
+      "Lane": 1,
+      "StartTime": 70949,
+      "Type": 1
+    },
+    {
+      "EndTime": 71253,
+      "Lane": 4,
+      "StartTime": 71253,
+      "Type": 1
+    },
+    {
+      "EndTime": 71556,
+      "Lane": 3,
+      "StartTime": 71556,
+      "Type": 1
+    },
+    {
+      "EndTime": 71859,
+      "Lane": 2,
+      "StartTime": 71859,
+      "Type": 1
+    },
+    {
+      "EndTime": 72162,
+      "Lane": 1,
+      "StartTime": 72162,
+      "Type": 1
+    },
+    {
+      "EndTime": 73374,
+      "Lane": 4,
+      "StartTime": 72465,
+      "Type": 2
+    },
+    {
+      "EndTime": 72768,
+      "Lane": 2,
+      "StartTime": 72768,
+      "Type": 1
+    },
+    {
+      "EndTime": 73071,
+      "Lane": 3,
+      "StartTime": 73071,
+      "Type": 1
+    },
+    {
+      "EndTime": 73374,
+      "Lane": 1,
+      "StartTime": 73374,
+      "Type": 1
+    },
+    {
+      "EndTime": 73677,
+      "Lane": 2,
+      "StartTime": 73677,
+      "Type": 1
+    },
+    {
+      "EndTime": 73677,
+      "Lane": 3,
+      "StartTime": 73677,
+      "Type": 1
+    },
+    {
+      "EndTime": 73980,
+      "Lane": 1,
+      "StartTime": 73980,
+      "Type": 1
+    },
+    {
+      "EndTime": 74283,
+      "Lane": 2,
+      "StartTime": 74283,
+      "Type": 1
+    },
+    {
+      "EndTime": 74586,
+      "Lane": 3,
+      "StartTime": 74586,
+      "Type": 1
+    },
+    {
+      "EndTime": 74889,
+      "Lane": 4,
+      "StartTime": 74889,
+      "Type": 1
+    },
+    {
+      "EndTime": 75192,
+      "Lane": 3,
+      "StartTime": 75192,
+      "Type": 1
+    },
+    {
+      "EndTime": 75495,
+      "Lane": 2,
+      "StartTime": 75495,
+      "Type": 1
+    },
+    {
+      "EndTime": 75798,
+      "Lane": 1,
+      "StartTime": 75798,
+      "Type": 1
+    },
+    {
+      "EndTime": 76101,
+      "Lane": 4,
+      "StartTime": 76101,
+      "Type": 1
+    },
+    {
+      "EndTime": 76404,
+      "Lane": 2,
+      "StartTime": 76404,
+      "Type": 1
+    },
+    {
+      "EndTime": 76707,
+      "Lane": 3,
+      "StartTime": 76707,
+      "Type": 1
+    },
+    {
+      "EndTime": 77010,
+      "Lane": 1,
+      "StartTime": 77010,
+      "Type": 1
+    },
+    {
+      "EndTime": 77313,
+      "Lane": 4,
+      "StartTime": 77313,
+      "Type": 1
+    },
+    {
+      "EndTime": 77616,
+      "Lane": 2,
+      "StartTime": 77616,
+      "Type": 1
+    },
+    {
+      "EndTime": 77919,
+      "Lane": 3,
+      "StartTime": 77919,
+      "Type": 1
+    },
+    {
+      "EndTime": 78222,
+      "Lane": 2,
+      "StartTime": 78222,
+      "Type": 1
+    },
+    {
+      "EndTime": 78828,
+      "Lane": 1,
+      "StartTime": 78525,
+      "Type": 2
+    },
+    {
+      "EndTime": 78525,
+      "Lane": 4,
+      "StartTime": 78525,
+      "Type": 1
+    },
+    {
+      "EndTime": 78828,
+      "Lane": 3,
+      "StartTime": 78828,
+      "Type": 1
+    },
+    {
+      "EndTime": 79434,
+      "Lane": 4,
+      "StartTime": 79131,
+      "Type": 2
+    },
+    {
+      "EndTime": 79434,
+      "Lane": 2,
+      "StartTime": 79434,
+      "Type": 1
+    },
+    {
+      "EndTime": 80040,
+      "Lane": 3,
+      "StartTime": 79737,
+      "Type": 2
+    },
+    {
+      "EndTime": 80040,
+      "Lane": 1,
+      "StartTime": 80040,
+      "Type": 1
+    },
+    {
+      "EndTime": 80646,
+      "Lane": 2,
+      "StartTime": 80343,
+      "Type": 2
+    },
+    {
+      "EndTime": 80646,
+      "Lane": 4,
+      "StartTime": 80646,
+      "Type": 1
+    },
+    {
+      "EndTime": 82162,
+      "Lane": 1,
+      "StartTime": 80949,
+      "Type": 2
+    },
+    {
+      "EndTime": 80949,
+      "Lane": 3,
+      "StartTime": 80949,
+      "Type": 1
+    },
+    {
+      "EndTime": 82162,
+      "Lane": 2,
+      "StartTime": 82162,
+      "Type": 1
+    },
+    {
+      "EndTime": 83374,
+      "Lane": 4,
+      "StartTime": 82162,
+      "Type": 2
+    },
+    {
+      "EndTime": 84586,
+      "Lane": 1,
+      "StartTime": 83374,
+      "Type": 2
+    },
+    {
+      "EndTime": 85798,
+      "Lane": 3,
+      "StartTime": 84586,
+      "Type": 2
+    },
+    {
+      "EndTime": 87010,
+      "Lane": 2,
+      "StartTime": 85798,
+      "Type": 2
+    },
+    {
+      "EndTime": 88222,
+      "Lane": 4,
+      "StartTime": 87010,
+      "Type": 2
+    },
+    {
+      "EndTime": 88222,
+      "Lane": 2,
+      "StartTime": 88222,
+      "Type": 1
+    },
+    {
+      "EndTime": 88222,
+      "Lane": 1,
+      "StartTime": 88222,
+      "Type": 1
+    },
+    {
+      "EndTime": 88525,
+      "Lane": 3,
+      "StartTime": 88525,
+      "Type": 1
+    },
+    {
+      "EndTime": 88828,
+      "Lane": 4,
+      "StartTime": 88828,
+      "Type": 1
+    },
+    {
+      "EndTime": 89131,
+      "Lane": 2,
+      "StartTime": 89131,
+      "Type": 1
+    },
+    {
+      "EndTime": 89434,
+      "Lane": 1,
+      "StartTime": 89434,
+      "Type": 1
+    },
+    {
+      "EndTime": 89737,
+      "Lane": 4,
+      "StartTime": 89737,
+      "Type": 1
+    },
+    {
+      "EndTime": 90040,
+      "Lane": 3,
+      "StartTime": 90040,
+      "Type": 1
+    },
+    {
+      "EndTime": 90343,
+      "Lane": 2,
+      "StartTime": 90343,
+      "Type": 1
+    },
+    {
+      "EndTime": 91859,
+      "Lane": 4,
+      "StartTime": 90646,
+      "Type": 2
+    },
+    {
+      "EndTime": 90646,
+      "Lane": 1,
+      "StartTime": 90646,
+      "Type": 1
+    },
+    {
+      "EndTime": 91253,
+      "Lane": 2,
+      "StartTime": 91253,
+      "Type": 1
+    },
+    {
+      "EndTime": 91859,
+      "Lane": 3,
+      "StartTime": 91859,
+      "Type": 1
+    },
+    {
+      "EndTime": 93071,
+      "Lane": 1,
+      "StartTime": 91859,
+      "Type": 2
+    },
+    {
+      "EndTime": 92465,
+      "Lane": 2,
+      "StartTime": 92465,
+      "Type": 1
+    },
+    {
+      "EndTime": 94283,
+      "Lane": 4,
+      "StartTime": 93071,
+      "Type": 2
+    },
+    {
+      "EndTime": 93071,
+      "Lane": 3,
+      "StartTime": 93071,
+      "Type": 1
+    },
+    {
+      "EndTime": 93677,
+      "Lane": 2,
+      "StartTime": 93677,
+      "Type": 1
+    },
+    {
+      "EndTime": 94283,
+      "Lane": 3,
+      "StartTime": 94283,
+      "Type": 1
+    },
+    {
+      "EndTime": 95495,
+      "Lane": 1,
+      "StartTime": 94283,
+      "Type": 2
+    },
+    {
+      "EndTime": 94889,
+      "Lane": 4,
+      "StartTime": 94889,
+      "Type": 1
+    },
+    {
+      "EndTime": 95495,
+      "Lane": 2,
+      "StartTime": 95495,
+      "Type": 1
+    },
+    {
+      "EndTime": 95798,
+      "Lane": 3,
+      "StartTime": 95798,
+      "Type": 1
+    },
+    {
+      "EndTime": 95798,
+      "Lane": 4,
+      "StartTime": 95798,
+      "Type": 1
+    },
+    {
+      "EndTime": 96101,
+      "Lane": 2,
+      "StartTime": 96101,
+      "Type": 1
+    },
+    {
+      "EndTime": 96404,
+      "Lane": 1,
+      "StartTime": 96404,
+      "Type": 1
+    },
+    {
+      "EndTime": 96707,
+      "Lane": 4,
+      "StartTime": 96707,
+      "Type": 1
+    },
+    {
+      "EndTime": 97010,
+      "Lane": 2,
+      "StartTime": 97010,
+      "Type": 1
+    },
+    {
+      "EndTime": 97313,
+      "Lane": 3,
+      "StartTime": 97313,
+      "Type": 1
+    },
+    {
+      "EndTime": 97616,
+      "Lane": 1,
+      "StartTime": 97616,
+      "Type": 1
+    },
+    {
+      "EndTime": 97919,
+      "Lane": 4,
+      "StartTime": 97919,
+      "Type": 1
+    },
+    {
+      "EndTime": 97919,
+      "Lane": 2,
+      "StartTime": 97919,
+      "Type": 1
+    },
+    {
+      "EndTime": 98222,
+      "Lane": 3,
+      "StartTime": 98222,
+      "Type": 1
+    },
+    {
+      "EndTime": 98525,
+      "Lane": 1,
+      "StartTime": 98525,
+      "Type": 1
+    },
+    {
+      "EndTime": 98828,
+      "Lane": 2,
+      "StartTime": 98828,
+      "Type": 1
+    },
+    {
+      "EndTime": 99131,
+      "Lane": 3,
+      "StartTime": 99131,
+      "Type": 1
+    },
+    {
+      "EndTime": 99131,
+      "Lane": 4,
+      "StartTime": 99131,
+      "Type": 1
+    },
+    {
+      "EndTime": 99434,
+      "Lane": 1,
+      "StartTime": 99434,
+      "Type": 1
+    },
+    {
+      "EndTime": 99737,
+      "Lane": 3,
+      "StartTime": 99737,
+      "Type": 1
+    },
+    {
+      "EndTime": 100040,
+      "Lane": 2,
+      "StartTime": 100040,
+      "Type": 1
+    },
+    {
+      "EndTime": 100343,
+      "Lane": 1,
+      "StartTime": 100343,
+      "Type": 1
+    },
+    {
+      "EndTime": 100343,
+      "Lane": 4,
+      "StartTime": 100343,
+      "Type": 1
+    },
+    {
+      "EndTime": 100646,
+      "Lane": 3,
+      "StartTime": 100646,
+      "Type": 1
+    },
+    {
+      "EndTime": 100949,
+      "Lane": 2,
+      "StartTime": 100949,
+      "Type": 1
+    },
+    {
+      "EndTime": 101253,
+      "Lane": 4,
+      "StartTime": 101253,
+      "Type": 1
+    },
+    {
+      "EndTime": 101556,
+      "Lane": 2,
+      "StartTime": 101556,
+      "Type": 1
+    },
+    {
+      "EndTime": 101556,
+      "Lane": 1,
+      "StartTime": 101556,
+      "Type": 1
+    },
+    {
+      "EndTime": 101859,
+      "Lane": 3,
+      "StartTime": 101859,
+      "Type": 1
+    },
+    {
+      "EndTime": 102162,
+      "Lane": 1,
+      "StartTime": 102162,
+      "Type": 1
+    },
+    {
+      "EndTime": 102465,
+      "Lane": 4,
+      "StartTime": 102465,
+      "Type": 1
+    },
+    {
+      "EndTime": 102768,
+      "Lane": 3,
+      "StartTime": 102768,
+      "Type": 1
+    },
+    {
+      "EndTime": 102768,
+      "Lane": 2,
+      "StartTime": 102768,
+      "Type": 1
+    },
+    {
+      "EndTime": 103071,
+      "Lane": 1,
+      "StartTime": 103071,
+      "Type": 1
+    },
+    {
+      "EndTime": 103374,
+      "Lane": 4,
+      "StartTime": 103374,
+      "Type": 1
+    },
+    {
+      "EndTime": 103677,
+      "Lane": 2,
+      "StartTime": 103677,
+      "Type": 1
+    },
+    {
+      "EndTime": 103980,
+      "Lane": 3,
+      "StartTime": 103980,
+      "Type": 1
+    },
+    {
+      "EndTime": 103980,
+      "Lane": 4,
+      "StartTime": 103980,
+      "Type": 1
+    },
+    {
+      "EndTime": 104283,
+      "Lane": 1,
+      "StartTime": 104283,
+      "Type": 1
+    },
+    {
+      "EndTime": 104586,
+      "Lane": 2,
+      "StartTime": 104586,
+      "Type": 1
+    },
+    {
+      "EndTime": 104889,
+      "Lane": 4,
+      "StartTime": 104889,
+      "Type": 1
+    },
+    {
+      "EndTime": 105192,
+      "Lane": 2,
+      "StartTime": 105192,
+      "Type": 1
+    },
+    {
+      "EndTime": 105192,
+      "Lane": 3,
+      "StartTime": 105192,
+      "Type": 1
+    },
+    {
+      "EndTime": 105495,
+      "Lane": 1,
+      "StartTime": 105495,
+      "Type": 1
+    },
+    {
+      "EndTime": 105798,
+      "Lane": 3,
+      "StartTime": 105798,
+      "Type": 1
+    },
+    {
+      "EndTime": 106101,
+      "Lane": 2,
+      "StartTime": 106101,
+      "Type": 1
+    },
+    {
+      "EndTime": 106404,
+      "Lane": 4,
+      "StartTime": 106404,
+      "Type": 1
+    },
+    {
+      "EndTime": 106404,
+      "Lane": 1,
+      "StartTime": 106404,
+      "Type": 1
+    },
+    {
+      "EndTime": 106707,
+      "Lane": 3,
+      "StartTime": 106707,
+      "Type": 1
+    },
+    {
+      "EndTime": 107010,
+      "Lane": 2,
+      "StartTime": 107010,
+      "Type": 1
+    },
+    {
+      "EndTime": 107313,
+      "Lane": 4,
+      "StartTime": 107313,
+      "Type": 1
+    },
+    {
+      "EndTime": 107616,
+      "Lane": 2,
+      "StartTime": 107616,
+      "Type": 1
+    },
+    {
+      "EndTime": 107616,
+      "Lane": 1,
+      "StartTime": 107616,
+      "Type": 1
+    },
+    {
+      "EndTime": 107919,
+      "Lane": 4,
+      "StartTime": 107919,
+      "Type": 1
+    },
+    {
+      "EndTime": 108222,
+      "Lane": 2,
+      "StartTime": 108222,
+      "Type": 1
+    },
+    {
+      "EndTime": 108525,
+      "Lane": 3,
+      "StartTime": 108525,
+      "Type": 1
+    },
+    {
+      "EndTime": 108828,
+      "Lane": 4,
+      "StartTime": 108828,
+      "Type": 1
+    },
+    {
+      "EndTime": 108828,
+      "Lane": 1,
+      "StartTime": 108828,
+      "Type": 1
+    },
+    {
+      "EndTime": 109131,
+      "Lane": 2,
+      "StartTime": 109131,
+      "Type": 1
+    },
+    {
+      "EndTime": 109434,
+      "Lane": 3,
+      "StartTime": 109434,
+      "Type": 1
+    },
+    {
+      "EndTime": 109737,
+      "Lane": 2,
+      "StartTime": 109737,
+      "Type": 1
+    },
+    {
+      "EndTime": 110040,
+      "Lane": 4,
+      "StartTime": 110040,
+      "Type": 1
+    },
+    {
+      "EndTime": 110040,
+      "Lane": 1,
+      "StartTime": 110040,
+      "Type": 1
+    },
+    {
+      "EndTime": 110343,
+      "Lane": 3,
+      "StartTime": 110343,
+      "Type": 1
+    },
+    {
+      "EndTime": 110646,
+      "Lane": 2,
+      "StartTime": 110646,
+      "Type": 1
+    },
+    {
+      "EndTime": 110949,
+      "Lane": 4,
+      "StartTime": 110949,
+      "Type": 1
+    },
+    {
+      "EndTime": 111253,
+      "Lane": 1,
+      "StartTime": 111253,
+      "Type": 1
+    },
+    {
+      "EndTime": 111556,
+      "Lane": 3,
+      "StartTime": 111556,
+      "Type": 1
+    },
+    {
+      "EndTime": 111859,
+      "Lane": 2,
+      "StartTime": 111859,
+      "Type": 1
+    },
+    {
+      "EndTime": 112162,
+      "Lane": 4,
+      "StartTime": 112162,
+      "Type": 1
+    },
+    {
+      "EndTime": 112465,
+      "Lane": 3,
+      "StartTime": 112465,
+      "Type": 1
+    },
+    {
+      "EndTime": 112768,
+      "Lane": 1,
+      "StartTime": 112465,
+      "Type": 2
+    },
+    {
+      "EndTime": 112768,
+      "Lane": 2,
+      "StartTime": 112768,
+      "Type": 1
+    },
+    {
+      "EndTime": 113374,
+      "Lane": 4,
+      "StartTime": 113071,
+      "Type": 2
+    },
+    {
+      "EndTime": 113374,
+      "Lane": 3,
+      "StartTime": 113374,
+      "Type": 1
+    },
+    {
+      "EndTime": 113980,
+      "Lane": 2,
+      "StartTime": 113677,
+      "Type": 2
+    },
+    {
+      "EndTime": 113980,
+      "Lane": 4,
+      "StartTime": 113980,
+      "Type": 1
+    },
+    {
+      "EndTime": 114586,
+      "Lane": 3,
+      "StartTime": 114283,
+      "Type": 2
+    },
+    {
+      "EndTime": 114586,
+      "Lane": 1,
+      "StartTime": 114586,
+      "Type": 1
+    },
+    {
+      "EndTime": 115192,
+      "Lane": 2,
+      "StartTime": 114889,
+      "Type": 2
+    },
+    {
+      "EndTime": 115192,
+      "Lane": 3,
+      "StartTime": 115192,
+      "Type": 1
+    },
+    {
+      "EndTime": 115798,
+      "Lane": 4,
+      "StartTime": 115495,
+      "Type": 2
+    },
+    {
+      "EndTime": 115798,
+      "Lane": 2,
+      "StartTime": 115798,
+      "Type": 1
+    },
+    {
+      "EndTime": 116404,
+      "Lane": 1,
+      "StartTime": 116101,
+      "Type": 2
+    },
+    {
+      "EndTime": 116404,
+      "Lane": 3,
+      "StartTime": 116404,
+      "Type": 1
+    },
+    {
+      "EndTime": 117010,
+      "Lane": 4,
+      "StartTime": 116707,
+      "Type": 2
+    },
+    {
+      "EndTime": 117010,
+      "Lane": 1,
+      "StartTime": 117010,
+      "Type": 1
+    },
+    {
+      "EndTime": 117313,
+      "Lane": 3,
+      "StartTime": 117313,
+      "Type": 1
+    },
+    {
+      "EndTime": 117616,
+      "Lane": 4,
+      "StartTime": 117616,
+      "Type": 1
+    },
+    {
+      "EndTime": 117919,
+      "Lane": 2,
+      "StartTime": 117616,
+      "Type": 2
+    },
+    {
+      "EndTime": 117919,
+      "Lane": 3,
+      "StartTime": 117919,
+      "Type": 1
+    },
+    {
+      "EndTime": 118525,
+      "Lane": 1,
+      "StartTime": 118222,
+      "Type": 2
+    },
+    {
+      "EndTime": 118525,
+      "Lane": 4,
+      "StartTime": 118525,
+      "Type": 1
+    },
+    {
+      "EndTime": 119131,
+      "Lane": 3,
+      "StartTime": 118828,
+      "Type": 2
+    },
+    {
+      "EndTime": 119131,
+      "Lane": 2,
+      "StartTime": 119131,
+      "Type": 1
+    },
+    {
+      "EndTime": 119737,
+      "Lane": 4,
+      "StartTime": 119434,
+      "Type": 2
+    },
+    {
+      "EndTime": 120040,
+      "Lane": 1,
+      "StartTime": 119737,
+      "Type": 2
+    },
+    {
+      "EndTime": 120343,
+      "Lane": 3,
+      "StartTime": 120040,
+      "Type": 2
+    },
+    {
+      "EndTime": 120646,
+      "Lane": 2,
+      "StartTime": 120343,
+      "Type": 2
+    },
+    {
+      "EndTime": 120949,
+      "Lane": 4,
+      "StartTime": 120646,
+      "Type": 2
+    },
+    {
+      "EndTime": 121253,
+      "Lane": 1,
+      "StartTime": 120949,
+      "Type": 2
+    },
+    {
+      "EndTime": 121556,
+      "Lane": 2,
+      "StartTime": 121253,
+      "Type": 2
+    },
+    {
+      "EndTime": 121859,
+      "Lane": 3,
+      "StartTime": 121556,
+      "Type": 2
+    },
+    {
+      "EndTime": 122162,
+      "Lane": 4,
+      "StartTime": 121859,
+      "Type": 2
+    },
+    {
+      "EndTime": 122162,
+      "Lane": 3,
+      "StartTime": 122162,
+      "Type": 1
+    },
+    {
+      "EndTime": 122162,
+      "Lane": 1,
+      "StartTime": 122162,
+      "Type": 1
+    },
+    {
+      "EndTime": 122465,
+      "Lane": 2,
+      "StartTime": 122465,
+      "Type": 1
+    },
+    {
+      "EndTime": 122768,
+      "Lane": 3,
+      "StartTime": 122768,
+      "Type": 1
+    },
+    {
+      "EndTime": 123071,
+      "Lane": 1,
+      "StartTime": 123071,
+      "Type": 1
+    },
+    {
+      "EndTime": 123374,
+      "Lane": 4,
+      "StartTime": 123374,
+      "Type": 1
+    },
+    {
+      "EndTime": 123677,
+      "Lane": 2,
+      "StartTime": 123677,
+      "Type": 1
+    },
+    {
+      "EndTime": 123980,
+      "Lane": 3,
+      "StartTime": 123980,
+      "Type": 1
+    },
+    {
+      "EndTime": 124283,
+      "Lane": 1,
+      "StartTime": 124283,
+      "Type": 1
+    },
+    {
+      "EndTime": 124586,
+      "Lane": 2,
+      "StartTime": 124586,
+      "Type": 1
+    },
+    {
+      "EndTime": 124889,
+      "Lane": 4,
+      "StartTime": 124889,
+      "Type": 1
+    },
+    {
+      "EndTime": 125192,
+      "Lane": 1,
+      "StartTime": 125192,
+      "Type": 1
+    },
+    {
+      "EndTime": 125495,
+      "Lane": 3,
+      "StartTime": 125495,
+      "Type": 1
+    },
+    {
+      "EndTime": 125798,
+      "Lane": 2,
+      "StartTime": 125798,
+      "Type": 1
+    },
+    {
+      "EndTime": 126101,
+      "Lane": 4,
+      "StartTime": 126101,
+      "Type": 1
+    },
+    {
+      "EndTime": 126404,
+      "Lane": 1,
+      "StartTime": 126404,
+      "Type": 1
+    },
+    {
+      "EndTime": 126707,
+      "Lane": 3,
+      "StartTime": 126707,
+      "Type": 1
+    }
+  ],
+  "InitialSliderVelocity": 1,
+  "KeyCount": 4,
+  "Metadata": {
+    "Artist": "Kaneko Chiharu",
+    "DifficultyName": "BASIC",
+    "Mapper": "Tofu12222",
+    "Title": "WHITEOUT"
+  },
+  "Name": "Kaneko Chiharu - WHITEOUT",
+  "NoteOffset": 0,
+  "Offset": -70,
+  "PreviewTime": 0,
+  "PrimaryBPM": 198,
+  "Rating": {
+    "0.75": 111,
+    "1.00": 128,
+    "1.50": 161
+  },
+  "SongRate": 1,
+  "TimingPoints": {
+    "BPM": [
+      {
+        "Inherrited": 0,
+        "Signature": 0,
+        "StartTime": 0,
+        "Value": 240
+      }
+    ],
+    "SV": {}
+  },
+  "Version": 3
+}
