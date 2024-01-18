@@ -30,25 +30,25 @@
     },
     {
       "EndTime": 2147,
-      "Lane": 3,
-      "StartTime": 420,
-      "Type": 2
-    },
-    {
-      "EndTime": 2147,
       "Lane": 2,
       "StartTime": 420,
       "Type": 2
     },
     {
+      "EndTime": 2147,
+      "Lane": 3,
+      "StartTime": 420,
+      "Type": 2
+    },
+    {
       "EndTime": 420,
-      "Lane": 1,
+      "Lane": 4,
       "StartTime": 420,
       "Type": 1
     },
     {
       "EndTime": 420,
-      "Lane": 4,
+      "Lane": 1,
       "StartTime": 420,
       "Type": 1
     },

@@ -4121,28 +4121,28 @@
       "Type": 1
     },
     {
-      "EndTime": 47990,
-      "Lane": 1,
-      "StartTime": 47700,
-      "Type": 2
-    },
-    {
       "EndTime": 47700,
       "Lane": 3,
       "StartTime": 47700,
       "Type": 1
     },
     {
-      "EndTime": 47700,
-      "Lane": 2,
+      "EndTime": 47990,
+      "Lane": 1,
       "StartTime": 47700,
-      "Type": 1
+      "Type": 2
     },
     {
       "EndTime": 47990,
       "Lane": 4,
       "StartTime": 47700,
       "Type": 2
+    },
+    {
+      "EndTime": 47700,
+      "Lane": 2,
+      "StartTime": 47700,
+      "Type": 1
     },
     {
       "EndTime": 48280,
@@ -9822,25 +9822,25 @@
     },
     {
       "EndTime": 120454,
-      "Lane": 4,
-      "StartTime": 120454,
-      "Type": 1
-    },
-    {
-      "EndTime": 120454,
       "Lane": 3,
       "StartTime": 120454,
       "Type": 1
     },
     {
       "EndTime": 120454,
-      "Lane": 2,
+      "Lane": 4,
       "StartTime": 120454,
       "Type": 1
     },
     {
       "EndTime": 120454,
       "Lane": 1,
+      "StartTime": 120454,
+      "Type": 1
+    },
+    {
+      "EndTime": 120454,
+      "Lane": 2,
       "StartTime": 120454,
       "Type": 1
     },
@@ -10581,7 +10581,7 @@
   "Rating": {
     "0.75": 372,
     "1.00": 464,
-    "1.50": 636
+    "1.50": 635
   },
   "SongRate": 1,
   "TimingPoints": {

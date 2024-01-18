@@ -9185,12 +9185,6 @@
       "Type": 2
     },
     {
-      "EndTime": 99666,
-      "Lane": 2,
-      "StartTime": 99474,
-      "Type": 2
-    },
-    {
       "EndTime": 99538,
       "Lane": 3,
       "StartTime": 99474,
@@ -9198,13 +9192,19 @@
     },
     {
       "EndTime": 99666,
-      "Lane": 1,
+      "Lane": 2,
       "StartTime": 99474,
       "Type": 2
     },
     {
       "EndTime": 99602,
       "Lane": 4,
+      "StartTime": 99474,
+      "Type": 2
+    },
+    {
+      "EndTime": 99666,
+      "Lane": 1,
       "StartTime": 99474,
       "Type": 2
     },

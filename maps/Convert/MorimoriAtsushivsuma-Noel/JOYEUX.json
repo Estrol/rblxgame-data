@@ -389,26 +389,26 @@
       "Type": 2
     },
     {
-      "EndTime": 9450,
-      "Lane": 2,
-      "StartTime": 9245,
-      "Type": 2
-    },
-    {
       "EndTime": 9791,
       "Lane": 1,
       "StartTime": 9245,
       "Type": 2
     },
     {
-      "EndTime": 9382,
-      "Lane": 3,
+      "EndTime": 9450,
+      "Lane": 2,
       "StartTime": 9245,
       "Type": 2
     },
     {
       "EndTime": 9314,
       "Lane": 4,
+      "StartTime": 9245,
+      "Type": 2
+    },
+    {
+      "EndTime": 9382,
+      "Lane": 3,
       "StartTime": 9245,
       "Type": 2
     },
@@ -3635,6 +3635,12 @@
       "Type": 2
     },
     {
+      "EndTime": 49336,
+      "Lane": 3,
+      "StartTime": 49336,
+      "Type": 1
+    },
+    {
       "EndTime": 49473,
       "Lane": 4,
       "StartTime": 49336,
@@ -3642,19 +3648,13 @@
     },
     {
       "EndTime": 49336,
-      "Lane": 3,
+      "Lane": 2,
       "StartTime": 49336,
       "Type": 1
     },
     {
       "EndTime": 49336,
       "Lane": 1,
-      "StartTime": 49336,
-      "Type": 1
-    },
-    {
-      "EndTime": 49336,
-      "Lane": 2,
       "StartTime": 49336,
       "Type": 1
     },
@@ -4799,14 +4799,20 @@
       "Type": 2
     },
     {
+      "EndTime": 66586,
+      "Lane": 4,
+      "StartTime": 66518,
+      "Type": 2
+    },
+    {
       "EndTime": 66654,
       "Lane": 2,
       "StartTime": 66518,
       "Type": 2
     },
     {
-      "EndTime": 66586,
-      "Lane": 4,
+      "EndTime": 66654,
+      "Lane": 3,
       "StartTime": 66518,
       "Type": 2
     },
@@ -4815,12 +4821,6 @@
       "Lane": 1,
       "StartTime": 66518,
       "Type": 1
-    },
-    {
-      "EndTime": 66654,
-      "Lane": 3,
-      "StartTime": 66518,
-      "Type": 2
     },
     {
       "EndTime": 66654,
@@ -5033,12 +5033,6 @@
       "Type": 1
     },
     {
-      "EndTime": 69927,
-      "Lane": 2,
-      "StartTime": 69791,
-      "Type": 2
-    },
-    {
       "EndTime": 69859,
       "Lane": 4,
       "StartTime": 69791,
@@ -5046,7 +5040,7 @@
     },
     {
       "EndTime": 69927,
-      "Lane": 3,
+      "Lane": 2,
       "StartTime": 69791,
       "Type": 2
     },
@@ -5055,6 +5049,12 @@
       "Lane": 1,
       "StartTime": 69791,
       "Type": 1
+    },
+    {
+      "EndTime": 69927,
+      "Lane": 3,
+      "StartTime": 69791,
+      "Type": 2
     },
     {
       "EndTime": 69927,
@@ -9234,25 +9234,25 @@
     },
     {
       "EndTime": 126791,
-      "Lane": 2,
-      "StartTime": 126791,
-      "Type": 1
-    },
-    {
-      "EndTime": 126791,
       "Lane": 1,
       "StartTime": 126791,
       "Type": 1
     },
     {
-      "EndTime": 126995,
-      "Lane": 4,
+      "EndTime": 126791,
+      "Lane": 2,
       "StartTime": 126791,
-      "Type": 2
+      "Type": 1
     },
     {
       "EndTime": 126927,
       "Lane": 3,
+      "StartTime": 126791,
+      "Type": 2
+    },
+    {
+      "EndTime": 126995,
+      "Lane": 4,
       "StartTime": 126791,
       "Type": 2
     },

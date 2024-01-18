@@ -2850,19 +2850,13 @@
     },
     {
       "EndTime": 79645,
-      "Lane": 2,
-      "StartTime": 79645,
-      "Type": 1
-    },
-    {
-      "EndTime": 79645,
       "Lane": 4,
       "StartTime": 79645,
       "Type": 1
     },
     {
       "EndTime": 79645,
-      "Lane": 1,
+      "Lane": 2,
       "StartTime": 79645,
       "Type": 1
     },
@@ -2871,6 +2865,12 @@
       "Lane": 3,
       "StartTime": 79645,
       "Type": 2
+    },
+    {
+      "EndTime": 79645,
+      "Lane": 1,
+      "StartTime": 79645,
+      "Type": 1
     },
     {
       "EndTime": 80327,

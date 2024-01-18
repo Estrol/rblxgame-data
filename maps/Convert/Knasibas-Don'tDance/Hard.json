@@ -16062,19 +16062,13 @@
     },
     {
       "EndTime": 187635,
-      "Lane": 2,
-      "StartTime": 187635,
-      "Type": 1
-    },
-    {
-      "EndTime": 187635,
       "Lane": 1,
       "StartTime": 187635,
       "Type": 1
     },
     {
       "EndTime": 187635,
-      "Lane": 3,
+      "Lane": 2,
       "StartTime": 187635,
       "Type": 1
     },
@@ -16083,6 +16077,12 @@
       "Lane": 4,
       "StartTime": 187635,
       "Type": 2
+    },
+    {
+      "EndTime": 187635,
+      "Lane": 3,
+      "StartTime": 187635,
+      "Type": 1
     },
     {
       "EndTime": 187726,
@@ -16335,7 +16335,7 @@
   "Rating": {
     "0.75": 435,
     "1.00": 557,
-    "1.50": 776
+    "1.50": 777
   },
   "SongRate": 1,
   "TimingPoints": {

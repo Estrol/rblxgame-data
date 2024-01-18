@@ -23,6 +23,7 @@ for _,folder in pairs(Dir) do
         local mapInstance = Roblox.Instance.new("Folder")
         mapInstance.Name = map.FolderName
         mapInstance.Parent = categoryInstance
+        mapInstance:SetAttribute("Index", i)
 
         local mapFS = FS.readDir("./maps/" .. folder .. "/" .. v)
 

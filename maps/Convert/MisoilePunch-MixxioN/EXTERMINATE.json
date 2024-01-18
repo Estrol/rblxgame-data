@@ -9366,25 +9366,25 @@
     },
     {
       "EndTime": 87490,
-      "Lane": 2,
-      "StartTime": 87271,
-      "Type": 2
-    },
-    {
-      "EndTime": 87490,
       "Lane": 3,
       "StartTime": 87271,
       "Type": 2
     },
     {
+      "EndTime": 87490,
+      "Lane": 2,
+      "StartTime": 87271,
+      "Type": 2
+    },
+    {
       "EndTime": 87271,
-      "Lane": 1,
+      "Lane": 4,
       "StartTime": 87271,
       "Type": 1
     },
     {
       "EndTime": 87271,
-      "Lane": 4,
+      "Lane": 1,
       "StartTime": 87271,
       "Type": 1
     },

@@ -1925,12 +1925,6 @@
       "Type": 2
     },
     {
-      "EndTime": 25535,
-      "Lane": 3,
-      "StartTime": 25435,
-      "Type": 2
-    },
-    {
       "EndTime": 25435,
       "Lane": 4,
       "StartTime": 25435,
@@ -1938,13 +1932,19 @@
     },
     {
       "EndTime": 25535,
-      "Lane": 2,
+      "Lane": 3,
       "StartTime": 25435,
       "Type": 2
     },
     {
       "EndTime": 25535,
       "Lane": 1,
+      "StartTime": 25435,
+      "Type": 2
+    },
+    {
+      "EndTime": 25535,
+      "Lane": 2,
       "StartTime": 25435,
       "Type": 2
     },

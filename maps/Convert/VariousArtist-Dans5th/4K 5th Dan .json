@@ -34548,25 +34548,25 @@
     },
     {
       "EndTime": 477440,
-      "Lane": 2,
-      "StartTime": 477440,
-      "Type": 1
-    },
-    {
-      "EndTime": 477440,
       "Lane": 1,
       "StartTime": 477440,
       "Type": 1
     },
     {
       "EndTime": 477440,
-      "Lane": 3,
+      "Lane": 2,
       "StartTime": 477440,
       "Type": 1
     },
     {
       "EndTime": 477440,
       "Lane": 4,
+      "StartTime": 477440,
+      "Type": 1
+    },
+    {
+      "EndTime": 477440,
+      "Lane": 3,
       "StartTime": 477440,
       "Type": 1
     },
@@ -54109,7 +54109,7 @@
   "PreviewTime": 0,
   "PrimaryBPM": 286,
   "Rating": {
-    "0.75": 403,
+    "0.75": 402,
     "1.00": 503,
     "1.50": 691
   },

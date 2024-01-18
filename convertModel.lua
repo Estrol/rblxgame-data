@@ -148,6 +148,12 @@ for index, v in pairs(InputModel) do
                         DifficultyName = v2.Name,
                     },
 
+                    TimingPoints = {
+                        SV = {},
+                        BPM = {},
+                    },
+                    HitObjects = {},
+
                     AudioId = data.AudioAssetId,
                     BackgroundId = v.BG.Image,
                     Offset = data.AudioTimeOffset,

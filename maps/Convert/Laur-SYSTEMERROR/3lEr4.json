@@ -1679,12 +1679,6 @@
       "Type": 1
     },
     {
-      "EndTime": 26400,
-      "Lane": 3,
-      "StartTime": 26400,
-      "Type": 1
-    },
-    {
       "EndTime": 26850,
       "Lane": 2,
       "StartTime": 26400,
@@ -1692,13 +1686,19 @@
     },
     {
       "EndTime": 26400,
-      "Lane": 4,
+      "Lane": 3,
       "StartTime": 26400,
       "Type": 1
     },
     {
       "EndTime": 26400,
       "Lane": 1,
+      "StartTime": 26400,
+      "Type": 1
+    },
+    {
+      "EndTime": 26400,
+      "Lane": 4,
       "StartTime": 26400,
       "Type": 1
     },

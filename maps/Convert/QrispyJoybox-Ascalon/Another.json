@@ -348,25 +348,25 @@
     },
     {
       "EndTime": 9054,
-      "Lane": 3,
-      "StartTime": 9054,
-      "Type": 1
-    },
-    {
-      "EndTime": 9054,
       "Lane": 4,
       "StartTime": 9054,
       "Type": 1
     },
     {
       "EndTime": 9054,
-      "Lane": 2,
+      "Lane": 3,
       "StartTime": 9054,
       "Type": 1
     },
     {
       "EndTime": 9054,
       "Lane": 1,
+      "StartTime": 9054,
+      "Type": 1
+    },
+    {
+      "EndTime": 9054,
+      "Lane": 2,
       "StartTime": 9054,
       "Type": 1
     },
@@ -3462,25 +3462,25 @@
     },
     {
       "EndTime": 64351,
-      "Lane": 1,
-      "StartTime": 64351,
-      "Type": 1
-    },
-    {
-      "EndTime": 64351,
       "Lane": 3,
       "StartTime": 64351,
       "Type": 1
     },
     {
       "EndTime": 64351,
-      "Lane": 4,
+      "Lane": 1,
       "StartTime": 64351,
       "Type": 1
     },
     {
       "EndTime": 64351,
       "Lane": 2,
+      "StartTime": 64351,
+      "Type": 1
+    },
+    {
+      "EndTime": 64351,
+      "Lane": 4,
       "StartTime": 64351,
       "Type": 1
     },
@@ -6294,25 +6294,25 @@
     },
     {
       "EndTime": 112676,
-      "Lane": 1,
-      "StartTime": 112676,
-      "Type": 1
-    },
-    {
-      "EndTime": 112676,
       "Lane": 2,
       "StartTime": 112676,
       "Type": 1
     },
     {
       "EndTime": 112676,
-      "Lane": 3,
+      "Lane": 1,
       "StartTime": 112676,
       "Type": 1
     },
     {
       "EndTime": 112676,
       "Lane": 4,
+      "StartTime": 112676,
+      "Type": 1
+    },
+    {
+      "EndTime": 112676,
+      "Lane": 3,
       "StartTime": 112676,
       "Type": 1
     },
@@ -6356,7 +6356,7 @@
   "PrimaryBPM": 185,
   "Rating": {
     "0.75": 307,
-    "1.00": 372,
+    "1.00": 374,
     "1.50": 508
   },
   "SongRate": 1,

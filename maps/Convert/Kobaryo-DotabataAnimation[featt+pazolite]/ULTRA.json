@@ -5646,19 +5646,13 @@
     },
     {
       "EndTime": 76616,
-      "Lane": 3,
-      "StartTime": 76616,
-      "Type": 1
-    },
-    {
-      "EndTime": 76616,
       "Lane": 2,
       "StartTime": 76616,
       "Type": 1
     },
     {
       "EndTime": 76616,
-      "Lane": 4,
+      "Lane": 3,
       "StartTime": 76616,
       "Type": 1
     },
@@ -5667,6 +5661,12 @@
       "Lane": 1,
       "StartTime": 76616,
       "Type": 2
+    },
+    {
+      "EndTime": 76616,
+      "Lane": 4,
+      "StartTime": 76616,
+      "Type": 1
     },
     {
       "EndTime": 76846,
